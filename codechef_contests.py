@@ -1,5 +1,4 @@
 import urllib2
-import os
 from tabulate import tabulate
 from bs4 import BeautifulSoup
 
