@@ -2,7 +2,7 @@ import requests
 import json
 import urllib
 
-key="AIzaSyApuFoKxVMRQ2einlsA0rkx2S4WJjJIh34"
+key="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 def get_wikidata(query):
     query=raw_input()
