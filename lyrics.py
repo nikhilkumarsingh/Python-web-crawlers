@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 
-SEARCH_URL = 'https://www.googleapis.com/customsearch/v1?key=XXXXXXXXXXX&cx=XXXXXXXXXXXXXXXXXXXXX&q='
+SEARCH_URL = 'https://www.googleapis.com/customsearch/v1?key=XXXXXXXXXXX&cx=005425014426727164707:7cg0pjnvla0&q='
+
 
 def get_lyrics(url):
     if 'http' not in url:
