@@ -1,0 +1,251 @@
+rank,name,year,rating
+1,The Shawshank Redemption,1994,            9.2    
+2,The Godfather,1972,            9.2    
+3,The Godfather: Part II,1974,            9.0    
+4,The Dark Knight,2008,            8.9    
+5,Schindler's List,1993,            8.9    
+6,12 Angry Men,1957,            8.9    
+7,Pulp Fiction,1994,            8.9    
+8,The Lord of the Rings: The Return of the King,2003,            8.9    
+9,"Il buono, il brutto, il cattivo",1966,            8.9    
+10,Fight Club,1999,            8.8    
+11,The Lord of the Rings: The Fellowship of the Ring,2001,            8.8    
+12,Star Wars: Episode V - The Empire Strikes Back,1980,            8.7    
+13,Forrest Gump,1994,            8.7    
+14,Inception,2010,            8.7    
+15,The Lord of the Rings: The Two Towers,2002,            8.7    
+16,One Flew Over the Cuckoo's Nest,1975,            8.7    
+17,Goodfellas,1990,            8.7    
+18,The Matrix,1999,            8.7    
+19,Shichinin no samurai,1954,            8.6    
+20,Star Wars,1977,            8.6    
+21,City of God,2002,            8.6    
+22,Se7en,1995,            8.6    
+23,The Silence of the Lambs,1991,            8.6    
+24,It's a Wonderful Life,1946,            8.6    
+25,The Usual Suspects,1995,            8.6    
+26,La vita è bella,1997,            8.6    
+27,Léon,1994,            8.5    
+28,Sen to Chihiro no kamikakushi,2001,            8.5    
+29,Once Upon a Time in the West,1968,            8.5    
+30,Saving Private Ryan,1998,            8.5    
+31,American History X,1998,            8.5    
+32,Casablanca,1942,            8.5    
+33,Interstellar,2014,            8.5    
+34,Psycho,1960,            8.5    
+35,City Lights,1931,            8.5    
+36,Raiders of the Lost Ark,1981,            8.5    
+37,Modern Times,1936,            8.5    
+38,The Green Mile,1999,            8.5    
+39,The Intouchables,2011,            8.5    
+40,Rear Window,1954,            8.5    
+41,Terminator 2: Judgment Day,1991,            8.5    
+42,The Pianist,2002,            8.5    
+43,The Departed,2006,            8.5    
+44,Back to the Future,1985,            8.5    
+45,Whiplash,2014,            8.5    
+46,Gladiator,2000,            8.5    
+47,Memento,2000,            8.5    
+48,Apocalypse Now,1979,            8.5    
+49,The Prestige,2006,            8.5    
+50,The Lion King,1994,            8.4    
+51,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,            8.4    
+52,Sunset Blvd.,1950,            8.4    
+53,Alien,1979,            8.4    
+54,The Great Dictator,1940,            8.4    
+55,The Lives of Others,2006,            8.4    
+56,Nuovo Cinema Paradiso,1988,            8.4    
+57,Paths of Glory,1957,            8.4    
+58,Django Unchained,2012,            8.4    
+59,The Shining,1980,            8.4    
+60,Hotaru no haka,1988,            8.4    
+61,WALL·E,2008,            8.4    
+62,The Dark Knight Rises,2012,            8.4    
+63,American Beauty,1999,            8.4    
+64,Mononoke-hime,1997,            8.4    
+65,Aliens,1986,            8.4    
+66,Oldeuboi,2003,            8.4    
+67,Citizen Kane,1941,            8.4    
+68,Once Upon a Time in America,1984,            8.4    
+69,Das Boot,1981,            8.3    
+70,North by Northwest,1959,            8.3    
+71,Vertigo,1958,            8.3    
+72,Witness for the Prosecution,1957,            8.3    
+73,Star Wars: Episode VI - Return of the Jedi,1983,            8.3    
+74,M,1931,            8.3    
+75,Reservoir Dogs,1992,            8.3    
+76,Braveheart,1995,            8.3    
+77,Amélie,2001,            8.3    
+78,Requiem for a Dream,2000,            8.3    
+79,A Clockwork Orange,1971,            8.3    
+80,Taxi Driver,1976,            8.3    
+81,Double Indemnity,1944,            8.3    
+82,Lawrence of Arabia,1962,            8.3    
+83,Toy Story 3,2010,            8.3    
+84,To Kill a Mockingbird,1962,            8.3    
+85,Eternal Sunshine of the Spotless Mind,2004,            8.3    
+86,Amadeus,1984,            8.3    
+87,Full Metal Jacket,1987,            8.3    
+88,The Sting,1973,            8.3    
+89,2001: A Space Odyssey,1968,            8.3    
+90,Ladri di biciclette,1948,            8.3    
+91,Toy Story,1995,            8.3    
+92,Singin' in the Rain,1952,            8.3    
+93,Snatch,2000,            8.3    
+94,Inglourious Basterds,2009,            8.3    
+95,The Kid,1921,            8.3    
+96,Monty Python and the Holy Grail,1975,            8.3    
+97,L.A. Confidential,1997,            8.3    
+98,Per qualche dollaro in più,1965,            8.3    
+99,Rashômon,1950,            8.3    
+100,The Apartment,1960,            8.3    
+101,Scarface,1983,            8.3    
+102,Indiana Jones and the Last Crusade,1989,            8.3    
+103,Jodaeiye Nader az Simin,2011,            8.3    
+104,3 Idiots,2009,            8.2    
+105,Metropolis,1927,            8.2    
+106,Jagten,2012,            8.2    
+107,Yôjinbô,1961,            8.2    
+108,All About Eve,1950,            8.2    
+109,Good Will Hunting,1997,            8.2    
+110,Batman Begins,2005,            8.2    
+111,The Treasure of the Sierra Madre,1948,            8.2    
+112,Some Like It Hot,1959,            8.2    
+113,Up,2009,            8.2    
+114,Unforgiven,1992,            8.2    
+115,The Third Man,1949,            8.2    
+116,Der Untergang,2004,            8.2    
+117,Raging Bull,1980,            8.2    
+118,Bacheha-Ye aseman,1997,            8.2    
+119,Die Hard,1988,            8.2    
+120,Inside Out,2015,            8.2    
+121,The Great Escape,1963,            8.2    
+122,Chinatown,1974,            8.2    
+123,Heat,1995,            8.2    
+124,Pan's Labyrinth,2006,            8.2    
+125,Room,2015,            8.2    
+126,On the Waterfront,1954,            8.2    
+127,Tonari no Totoro,1988,            8.2    
+128,La passion de Jeanne d'Arc,1928,            8.2    
+129,Ikiru,1952,            8.2    
+130,Ran,1985,            8.2    
+131,The Gold Rush,1925,            8.2    
+132,Mr. Smith Goes to Washington,1939,            8.2    
+133,The Bridge on the River Kwai,1957,            8.2    
+134,El secreto de sus ojos,2009,            8.2    
+135,Blade Runner,1982,            8.2    
+136,Det sjunde inseglet,1957,            8.2    
+137,"Lock, Stock and Two Smoking Barrels",1998,            8.2    
+138,Hauru no ugoku shiro,2004,            8.2    
+139,Casino,1995,            8.2    
+140,Sunrise: A Song of Two Humans,1927,            8.2    
+141,Smultronstället,1957,            8.2    
+142,The General,1926,            8.2    
+143,Judgment at Nuremberg,1961,            8.2    
+144,The Elephant Man,1980,            8.2    
+145,Warrior,2011,            8.2    
+146,A Beautiful Mind,2001,            8.2    
+147,The Wolf of Wall Street,2013,            8.2    
+148,V for Vendetta,2005,            8.1    
+149,Incendies,2010,            8.1    
+150,Tôkyô monogatari,1953,            8.1    
+151,Star Wars: Episode VII - The Force Awakens,2015,            8.1    
+152,Gran Torino,2008,            8.1    
+153,The Big Lebowski,1998,            8.1    
+154,The Deer Hunter,1978,            8.1    
+155,Dial M for Murder,1954,            8.1    
+156,Trainspotting,1996,            8.1    
+157,Gone with the Wind,1939,            8.1    
+158,Fargo,1996,            8.1    
+159,Rebecca,1940,            8.1    
+160,Cool Hand Luke,1967,            8.1    
+161,How to Train Your Dragon,2010,            8.1    
+162,Finding Nemo,2003,            8.1    
+163,The Sixth Sense,1999,            8.1    
+164,The Thing,1982,            8.1    
+165,The Message,1976,            8.1    
+166,No Country for Old Men,2007,            8.1    
+167,Idi i smotri,1985,            8.1    
+168,Into the Wild,2007,            8.1    
+169,Mary and Max,2009,            8.1    
+170,Gone Girl,2014,            8.1    
+171,Kill Bill: Vol. 1,2003,            8.1    
+172,It Happened One Night,1934,            8.1    
+173,There Will Be Blood,2007,            8.1    
+174,Life of Brian,1979,            8.1    
+175,Rush,2013,            8.1    
+176,Le notti di Cabiria,1957,            8.1    
+177,Hotel Rwanda,2004,            8.1    
+178,Platoon,1986,            8.1    
+179,Le salaire de la peur,1953,            8.1    
+180,The Maltese Falcon,1941,            8.1    
+181,Network,1976,            8.1    
+182,Spotlight,2015,            8.1    
+183,Butch Cassidy and the Sundance Kid,1969,            8.1    
+184,Shutter Island,2010,            8.1    
+185,Mad Max: Fury Road,2015,            8.1    
+186,Stand by Me,1986,            8.1    
+187,Les quatre cents coups,1959,            8.1    
+188,In the Name of the Father,1993,            8.1    
+189,Zootopia,2016,            8.1    
+190,Persona,1966,            8.1    
+191,12 Years a Slave,2013,            8.1    
+192,The Grand Budapest Hotel,2014,            8.1    
+193,Amores perros,2000,            8.1    
+194,Relatos salvajes,2014,            8.1    
+195,Million Dollar Baby,2004,            8.1    
+196,Ben-Hur,1959,            8.1    
+197,The Princess Bride,1987,            8.1    
+198,Captain America: Civil War,2016,            8.1    
+199,Jurassic Park,1993,            8.1    
+200,Touch of Evil,1958,            8.1    
+201,Hachi: A Dog's Tale,2009,            8.1    
+202,Kaze no tani no Naushika,1984,            8.1    
+203,The Grapes of Wrath,1940,            8.1    
+204,Stalker,1979,            8.1    
+205,Annie Hall,1977,            8.1    
+206,Salinui chueok,2003,            8.0    
+207,Before Sunrise,1995,            8.0    
+208,The Truman Show,1998,            8.0    
+209,The Bourne Ultimatum,2007,            8.0    
+210,Gandhi,1982,            8.0    
+211,Les diaboliques,1955,            8.0    
+212,Donnie Darko,2001,            8.0    
+213,Rocky,1976,            8.0    
+214,8½,1963,            8.0    
+215,Harry Potter and the Deathly Hallows: Part 2,2011,            8.0    
+216,"Monsters, Inc.",2001,            8.0    
+217,The Wizard of Oz,1939,            8.0    
+218,The Terminator,1984,            8.0    
+219,Deadpool,2016,            8.0    
+220,Twelve Monkeys,1995,            8.0    
+221,Groundhog Day,1993,            8.0    
+222,The Best Years of Our Lives,1946,            8.0    
+223,Mou gaan dou,2002,            8.0    
+224,Jaws,1975,            8.0    
+225,The Revenant,2015,            8.0    
+226,Strangers on a Train,1951,            8.0    
+227,Prisoners,2013,            8.0    
+228,La haine,1995,            8.0    
+229,Sin City,2005,            8.0    
+230,Barry Lyndon,1975,            8.0    
+231,Kind Hearts and Coronets,1949,            8.0    
+232,La battaglia di Algeri,1966,            8.0    
+233,Catch Me If You Can,2002,            8.0    
+234,Dog Day Afternoon,1975,            8.0    
+235,Yip Man,2008,            8.0    
+236,The Martian,2015,            8.0    
+237,Pirates of the Caribbean: The Curse of the Black Pearl,2003,            8.0    
+238,The Imitation Game,2014,            8.0    
+239,The Help,2011,            8.0    
+240,Gangs of Wasseypur,2012,            8.0    
+241,Fanny och Alexander,1982,            8.0    
+242,Tenkû no shiro Rapyuta,1986,            8.0    
+243,Per un pugno di dollari,1964,            8.0    
+244,Guardians of the Galaxy,2014,            8.0    
+245,Roman Holiday,1953,            8.0    
+246,The King's Speech,2010,            8.0    
+247,The Avengers,2012,            8.0    
+248,Kis Uykusu,2014,            8.0    
+249,Kumonosu-jô,1957,            8.0    
+250,Lagaan: Once Upon a Time in India,2001,            8.0    
